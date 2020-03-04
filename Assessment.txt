@@ -1,0 +1,58 @@
+>>Agile Scrum Methodology
+
+Key Features:
+Better Visibility.
+High Transparency.
+Allows Early Identification And Easy Resolution Of The Issues.
+Exceptional Quality.
+Inexpensive with continuous integration and Iterative releases.
+
+Key People:
+Product Owner
+Scum master
+Team
+
+Advantages of using SCRUM technique
+Flexibility and Adaptability
+Creativity and Innovation
+Time-to-Market
+Lower Costs and Improved Quality
+Improved Customer Satisfaction
+Disadvantages of Agile and Scrum
+Training and Skill Required- Requires experienced and committed members
+Organizational Transformation-may require changes to organisation to make it work
+Scalability
+Integration with Project/Program Management
+
+
+>>Dynamic Systems Development Method (DSDM)
+
+Domain Object modelling.
+Developing by Feature.
+Individual Class (Code) Ownership.
+Feature Teams.
+Inspections.
+Configuration Management.
+
+Key people:
+Team
+Product Owner
+
+Advantages of using FDD technique
+Adaptive to changing environment (Flexible)
+FDD ensures customer satisfaction through active involvement of users.
+Least documentation
+Reduces risks of development since reviews are done regularly
+
+Disadvantages of using FDD technique
+	So if the customer representative is not clear about the product features, the 	development process will go out of the track
+	Lack of documentation can be a disadvantage if some new members join in the middle 	of the launch.
+	Time consuming and wastage of resources because of constant change of 	requirements
+	More helpful for management than developer than developers who have to cope with 	ever changing requirements
+
+
+Regular Builds.
+>>Feature Driven Development(FDD)
+>>Agile Software Development(ASD)
+>>Xtreme Programming(XP)
+>>Crystal Methods
